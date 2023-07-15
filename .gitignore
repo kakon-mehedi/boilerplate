@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+
+# Build files
+dist/
+build/
+out/
+*.exe
+*.msi
+
+# TypeScript specific
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Testing
+test/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

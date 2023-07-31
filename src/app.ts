@@ -220,3 +220,5 @@ const dynamicResponse: APIResponseDynamicType<object> = {
 
 /* If I now use APIResponseDynamicType <string> it will give error because I am sending object as response
 but I am setting response type as string */
+
+// these are the ts basic concepts
